@@ -1,0 +1,41 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "stopOnEntry": false,
+            "exceptionBreakpointFilters": [
+                {
+                    "filter": "raised",
+                    "label": "Raised Exceptions",
+                    "default": true
+                },
+                {
+                    "filter": "uncaught",
+                    "label": "Uncaught Exceptions",
+                    "default": true
+                }
+            ]
+        }
+    ]
+}
+
+
+
+para ma launch debugger ni vscode.
+
+what are environment variables?
+
+what are object repo
+
+winium and robot framework
+
+pseudo code for selenium testing.
+
+
+just play with internet heroku hhahahaha
